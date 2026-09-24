@@ -189,27 +189,6 @@ Database management system developed using Oracle DB Express with structured dat
 * Advanced DSA & algorithms
 * Cloud & cybersecurity fundamentals
 
----
-
-## 📜 Certifications
-
-* **Fundamentals of Cybersecurity** — upGrad
-* **Fundamentals of Cloud Computing** — upGrad
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-S-D&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-S-D&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shreyas-S-D&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -219,7 +198,7 @@ Database management system developed using Oracle DB Express with structured dat
 <img src="https://img.shields.io/badge/GitHub-Shreyas--S--D-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/shreyas-s-d/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
