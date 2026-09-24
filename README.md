@@ -198,7 +198,7 @@ Database management system developed using Oracle DB Express with structured dat
 <img src="https://img.shields.io/badge/GitHub-Shreyas--S--D-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/shreyas-s-d/)">
+<a href="https://www.linkedin.com/in/shreyas-s-d/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
