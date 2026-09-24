@@ -1,4 +1,4 @@
-# Hey, I'm Shrey 👋
+# Hey, I'm Shreyas 👋
 
 ### Computer Science Engineering — AI & ML | Developer | AI/ML Builder
 
